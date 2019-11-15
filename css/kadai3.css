@@ -1,0 +1,16 @@
+h1{
+    color:aqua;font-weight: bold; 
+    text-align: center;
+    background-color:azure;
+}
+h2{
+    color:skyblue;font-weight: bold; 
+    text-align: center;
+    background-color:palevioletred;
+}
+
+body {
+background-image: url("../images/04.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}

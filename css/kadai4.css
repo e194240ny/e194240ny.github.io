@@ -1,0 +1,24 @@
+.bluecolor{
+    
+    color :blue;
+      text-align: center;
+    background-color:hotpink;
+}
+
+h1#nishi{
+   
+    text-align: center;
+    background-color:darkred;
+}
+
+.greencolor{
+    color:greenyellow;
+text-align: center;
+    background-color:orangered;
+}
+body {
+background-image: url("../images/04.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+

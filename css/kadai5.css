@@ -1,0 +1,68 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color:gray;
+    font-family:"impact";
+    margin-bottom:20px; 
+}
+div.www{
+    width:1000px;
+    margin:0px auto;
+}
+div.frame{
+    height:320px;
+    width:1000px;
+ background-color:lightskyblue;
+    font-size:0px;
+}
+div.menu{
+    display: inline-block;
+    width:250px;
+    height:320px;
+    background-color:skyblue;
+    vertical-align: top;
+}
+div.menuitem{
+    display:inline-block;
+        width:250px;
+    height:100px;
+    background-color:red;
+    margin-bottom:10px;
+    font-size:15px;
+}
+div.menuitem1 {
+    display:inline-block;
+        width:250px;
+    height:100px;
+    background-color:red;
+    font-size:15px;
+}
+div.Imageframe{
+    display:inline-block;
+        width:700px;
+    height:320px;
+    background-color:gray;
+    vertical-align: top;
+    margin-left: 50px;
+}
+div.image{
+        width:700px;
+    height:300px;
+    background-color:black;
+   vertical-align: top;
+}
+div.text{
+    height: 20px;
+    width: 700px;
+    background: blue;
+     vertical-align: top;
+    font-size: 15px;
+}
+div.footer{
+    display:inline-block;
+    width:1000px;
+    height:40px;
+    background-color:orange;
+    text-align:right;
+    margin-top:20px;
+}
